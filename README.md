@@ -2,4 +2,4 @@
 Projeto Maven com conexao ao banco JavaBD
 
 
-nova linha readm    e.
+nova linha readme.
